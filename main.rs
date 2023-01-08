@@ -102,7 +102,7 @@ impl Graph {
 
 
 
-// Function to 
+// Function to use breath first search
 
 type Vertex = usize;
 type ListOfEdges = Vec<(Vertex,Vertex)>;
